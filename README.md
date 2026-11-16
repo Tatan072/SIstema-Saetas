@@ -2,17 +2,18 @@
 
 ### Sistema Integral de Gestión Deportiva
 
-\<p align="center">
-&#x20; \<strong>TRABAJO FINAL – ESTRUCTURAS DE DATOS\</strong>
-\</p>
+<p align="center">
+  <strong>TRABAJO FINAL – ESTRUCTURAS DE DATOS</strong>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Interfaz-Gradio-orange](https://img.shields.io/badge/Interfaz-Gradio-orange)" />
-&#x20; \<img src="[https://img.shields.io/badge/Entorno-Google%20Colab-yellow?logo=googlecolab&logoColor=white](https://img.shields.io/badge/Entorno-Google%20Colab-yellow?logo=googlecolab\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Estado-Proyecto%20académico-success](https://img.shields.io/badge/Estado-Proyecto%20académico-success)" />
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Interfaz-Gradio-orange" />
+  <img src="https://img.shields.io/badge/Entorno-Google%20Colab-yellow?logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estado-Proyecto%20académico-success" />
+</p>
 
+---
 ---
 
 ---
@@ -171,4 +172,3 @@ Como posibles ampliaciones del proyecto se plantean:
 
 ---
 
-\<p align="center">   \<strong>CLUB SAETAS VALIENTES\</strong>\<br/>   Sistema Integral de Gestión Deportiva\<br/>   \<em>Aplicando estructuras de datos a la gestión deportiva.\</em> \</p>
